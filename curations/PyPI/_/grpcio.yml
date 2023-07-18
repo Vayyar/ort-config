@@ -1,0 +1,6 @@
+- id: "PyPI::grpcio:1.56.0"
+  curations:
+    comment: |
+      The artifact declares as licensed under 'Apache-2.0', see :
+      https://github.com/grpc/grpc/blob/master/LICENSE
+    concluded_license: "Apache-2.0"
