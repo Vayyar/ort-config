@@ -1,0 +1,9 @@
+- id: "PyPI::certifi" # No version means the curation will be applied to all versions of the package.
+  curations:
+    comment: "The revision is the latest revision as of date 11/7/23"
+    declared_license_mapping:
+      "license a": "Apache-2.0"
+    vcs:
+      type: "Git"
+      url: "https://github.com/certifi/python-certifi.git"
+      revision: "2038739ad56abec7aaddfa90ad2ce6b3ed7f5c7b"
