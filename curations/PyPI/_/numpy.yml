@@ -4,3 +4,5 @@
       The artifact declares as licensed under 'BSD-3-Clause', see:
       https://github.com/numpy/numpy/blob/main/LICENSE.txt
     concluded_license: "BSD-3-Clause"
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
