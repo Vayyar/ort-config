@@ -1,8 +1,10 @@
 - id: "PyPI::tflite-runtime-nightly" # No version means the curation will be applied to all versions of the package.
   curations:
-    comment: "nightly build of tensorflow micro"
+    comment: "Official version by google"
     declared_license_mapping:
       "license a": "Apache-2.0"
     vcs:
       type: "Git"
-      url: "https://github.com/tensorflow/tensorflow/tree/master"
+      url: "https://github.com/tensorflow/tensorflow.git"
+      revision: "58e11a4acfef934ee09d346e0cc61d825e276b84"
+    is_meta_data_only: true # Whether the package is metadata only.
