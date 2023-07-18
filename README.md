@@ -1,4 +1,4 @@
-# ORT Config of Vayyar org v2
+# ORT Config of Vayyar org v3
 
 This repository contains [configuration files](https://github.com/oss-review-toolkit/ort#configuration-files) for the
 [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort).
