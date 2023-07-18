@@ -1,0 +1,16 @@
+id: "PyPI::google-cloud-appengine-logging:1.3.1"
+vcs:
+  type: "Git"
+  url: "https://github.com/googleapis/google-cloud-python.git"
+  revision: "b1a892702dcaeba22bba37f227e814c3cae054f5"
+path_excludes:
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"
+license_finding_curations:
+- path: "packages/google-cloud-rapidmigrationassessment/google/cloud/rapidmigrationassessment_v1/types/api_entities.py"
+  start_lines: "100"
+  line_count: 1
+  detected_license: "LicenseRef-scancode-proprietary-license"
+  concluded_license: "Apache-2.0"
+  reason: "INCORRECT"
+  comment: "Part of the code"
