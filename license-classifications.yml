@@ -10060,7 +10060,3 @@ categorizations:
   categories:
   - "permissive"
   - "include-in-notice-file"
-- id: "BSD License"
-  categories:
-  - "permissive"
-  - "include-in-notice-file"
