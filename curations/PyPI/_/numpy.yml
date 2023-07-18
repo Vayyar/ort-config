@@ -1,7 +1,6 @@
 - id: "PyPI::numpy:1.25.1"
   curations:
-    comment: "[The artifact declares as licensed under 'BSD-3-Clause', see \
-      https://url-to-repository/tag-or-revision-for-version-1.25.1/LICENSE and \
-      https://url-to-repository/tag-or-revision-for-version-1.25.1/package-metadata-file \.
-      Additionally the scanner detects ...]"
+    comment: |
+      The artifact declares as licensed under 'BSD-3-Clause', see:
+      https://github.com/numpy/numpy/blob/main/LICENSE.txt
     concluded_license: "BSD-3-Clause"
