@@ -1,0 +1,8 @@
+id: "PyPI::charset-normalizer:3.2.0"
+vcs:
+  type: "Git"
+  url: "https://github.com/Ousret/charset_normalizer.git"
+  revision: "0424c805c968d81f90281bf1ea0c7a1cd15b0281"
+path_excludes:
+- pattern: "docs/*"
+  reason: "DOCUMENTATION_OF"
