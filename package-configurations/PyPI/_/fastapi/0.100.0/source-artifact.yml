@@ -1,0 +1,10 @@
+id: "PyPI::fastapi:0.100.0"
+source_artifact_url: "https://files.pythonhosted.org/packages/65/e0/f9d77b3a1569e2217abf260b0b1462401736973d1c5d3d335f6f2009daa2/fastapi-0.100.0.tar.gz"
+license_finding_curations:
+- path: "fastapi-0.100.0/fastapi/openapi/models.py"
+  start_lines: "92"
+  line_count: 1
+  detected_license: "NOASSERTION"
+  concluded_license: "NONE"
+  reason: "INCORRECT"
+  comment: "It is part of the code"
