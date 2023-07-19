@@ -1,0 +1,8 @@
+id: "PyPI::google-resumable-media:2.5.0"
+vcs:
+  type: "Git"
+  url: "https://github.com/googleapis/google-resumable-media-python.git"
+  revision: "f25e6df2df0a0bf98dd2b08c096aa4b7cc27fe4a"
+path_excludes:
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"

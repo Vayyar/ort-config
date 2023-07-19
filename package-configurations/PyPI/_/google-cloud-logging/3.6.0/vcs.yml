@@ -1,0 +1,8 @@
+id: "PyPI::google-cloud-logging:3.6.0"
+vcs:
+  type: "Git"
+  url: "https://github.com/googleapis/python-logging.git"
+  revision: "b6a76f5ec8f56a5132335bce5684c2a2edbe2799"
+path_excludes:
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"

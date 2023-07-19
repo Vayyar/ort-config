@@ -4,5 +4,5 @@ vcs:
   url: "https://github.com/googleapis/python-api-core.git"
   revision: "0acda8c96b23af2238ae0f4536e4fbb98bc7d787"
 path_excludes:
-- pattern: "docs/*"
+- pattern: "**/*CONTRIBUTING*"
   reason: "DOCUMENTATION_OF"

@@ -1,0 +1,8 @@
+id: "PyPI::google-cloud-core:2.3.3"
+vcs:
+  type: "Git"
+  url: "https://github.com/googleapis/python-cloud-core.git"
+  revision: "c5f86620142ff1e1b0d200bfb2c22f97f3163363"
+path_excludes:
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"

@@ -1,0 +1,8 @@
+id: "PyPI::google-cloud-audit-log:0.2.5"
+vcs:
+  type: "Git"
+  url: "https://github.com/googleapis/python-audit-log.git"
+  revision: "f491fda3676396b998558e1424bb5cb42105a6cc"
+path_excludes:
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"

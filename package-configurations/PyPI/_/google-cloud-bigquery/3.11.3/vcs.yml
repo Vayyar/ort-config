@@ -1,0 +1,8 @@
+id: "PyPI::google-cloud-bigquery:3.11.3"
+vcs:
+  type: "Git"
+  url: "https://github.com/googleapis/python-bigquery.git"
+  revision: "206d40baf09c29f46d4191137258df510c2a6cdc"
+path_excludes:
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"
