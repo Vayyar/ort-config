@@ -10,3 +10,6 @@ excludes:
   - pattern: "notifications/build.gradle.kts"
     reason: "BUILD_TOOL_OF"
     comment: "This project is being used to provide IDE support for the example.notifications.kts file."
+  - pattern: "**/*CONTRIBUTING*"
+    reason: "DOCUMENTATION_OF"
+    comment: "Those file help other contributors to devlop packages and do not contain licence information"
