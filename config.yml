@@ -13,5 +13,5 @@ ort:
       fileBasedStorage:
         backend:
           localFileStorage:
-            directory: "/home/user/.ort/scanner/scan-results"
+            directory: "/home/user/.ort/scanner/results"
             compression: false
