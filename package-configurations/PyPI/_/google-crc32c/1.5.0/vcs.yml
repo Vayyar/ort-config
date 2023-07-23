@@ -6,3 +6,7 @@ vcs:
 path_excludes:
 - pattern: "**/*CONTRIBUTING*"
   reason: "DOCUMENTATION_OF"
+- pattern: "**/*CONTRIBUTORS*"
+  reason: "DOCUMENTATION_OF"
+- pattern: "google_crc32c/third_party/glog/README.rst"
+  reason: "DOCUMENTATION_OF"

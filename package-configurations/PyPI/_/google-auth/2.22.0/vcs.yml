@@ -6,3 +6,5 @@ vcs:
 path_excludes:
 - pattern: "**/*CONTRIBUTING*"
   reason: "DOCUMENTATION_OF"
+- pattern: "docs/**"
+  reason: "DOCUMENTATION_OF"

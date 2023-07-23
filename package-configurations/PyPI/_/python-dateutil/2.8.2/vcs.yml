@@ -1,0 +1,18 @@
+id: "PyPI::python-dateutil:2.8.2"
+vcs:
+  type: "Git"
+  url: "https://github.com/dateutil/dateutil.git"
+  revision: "6b035517571e63b6a63a493740c5506ec1e5da44"
+path_excludes:
+- pattern: "AUTHORS.md"
+  reason: "DOCUMENTATION_OF"
+- pattern: "docs/**"
+  reason: "DOCUMENTATION_OF"
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"
+- pattern: "NEWS"
+  reason: "DOCUMENTATION_OF"
+- pattern: "README.rst"
+  reason: "DOCUMENTATION_OF"
+- pattern: "setup.cfg"
+  reason: "DOCUMENTATION_OF"

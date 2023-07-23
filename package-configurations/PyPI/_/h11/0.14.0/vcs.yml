@@ -1,0 +1,8 @@
+id: "PyPI::h11:0.14.0"
+vcs:
+  type: "Git"
+  url: "https://github.com/python-hyper/h11.git"
+  revision: "467c5cfc5f9a1364c7da6b754d591092ee409931"
+path_excludes:
+- pattern: "**/*CONTRIBUTING*"
+  reason: "DOCUMENTATION_OF"

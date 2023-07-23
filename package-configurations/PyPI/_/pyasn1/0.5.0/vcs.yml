@@ -1,0 +1,10 @@
+id: "PyPI::pyasn1:0.5.0"
+vcs:
+  type: "Git"
+  url: "https://github.com/pyasn1/pyasn1.git"
+  revision: "becae6005c7ba987dbce92c44732f43b9e01bbd1"
+path_excludes:
+- pattern: "README.md"
+  reason: "DOCUMENTATION_OF"
+- pattern: "docs/**"
+  reason: "DOCUMENTATION_OF"
